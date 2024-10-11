@@ -1,5 +1,7 @@
 # About Me:
-Hii I'm Juli, im an app develope with java code
+Hi there! 👋 I'm Juli Hartawan
+
+I have been working as an app and web backend developer for the past 3 years. I specialize in building efficient, scalable backend systems for both web and mobile applications, and I'm passionate about clean code, performance optimization, and continuous learning. Let's build something great together!
 
 
 ## 🌐 Socials:
